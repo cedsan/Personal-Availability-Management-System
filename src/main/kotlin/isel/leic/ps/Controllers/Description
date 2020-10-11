@@ -1,0 +1,2 @@
+This package contains definition of Controllers of HTTP Handlers used by the Spring Boot Application.
+This package is supposed to illustrate the Controller Layer of the App.

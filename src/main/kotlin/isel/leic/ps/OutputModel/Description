@@ -1,0 +1,5 @@
+This package contains definition of the adapters of the Model objects returned by the Service layer.
+They're purpose is to provide a adapter of the resources returned by controllers in order
+to maintain compatibility to previous version of the system's API model.
+
+Side note: All class created in this package will be suffixed with OM - OutputModel

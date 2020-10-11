@@ -1,0 +1,3 @@
+This package contains Data Access Layer implementation used by this Spring Boot Application.
+This package is supposed to illustrate the Data Access Layer of the App used to provide actions to the data
+stored in the Application DB provider.

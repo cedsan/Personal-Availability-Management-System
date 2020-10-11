@@ -1,0 +1,21 @@
+--\c SGDL
+DROP TABLE IF EXISTS VisibilityRestriction;
+
+DROP TABLE IF EXISTS WeekdaySubscription;
+
+DROP TABLE IF EXISTS DefaultSubscription;
+
+DROP TABLE IF EXISTS Subscription;
+
+DROP TABLE IF EXISTS Visibility;
+
+DROP TABLE IF EXISTS ScheduleDayOfWeek;
+
+DROP TABLE IF EXISTS LOCATION;
+
+DROP TABLE IF EXISTS Observable CASCADE;
+
+DROP TABLE IF EXISTS Observer CASCADE;
+
+
+

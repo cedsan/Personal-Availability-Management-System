@@ -1,0 +1,2 @@
+This package contains definition of Data Transfer Object to be used to parse data from request containing
+Entities information, to be used within the application

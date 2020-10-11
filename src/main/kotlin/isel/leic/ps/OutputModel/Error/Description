@@ -1,0 +1,2 @@
+This package contains definition of Output Model to be used to pass additional error information to the
+client according to the 7807 RFC specification
